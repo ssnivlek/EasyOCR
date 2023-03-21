@@ -1,4 +1,5 @@
 torch
+opencv-contrib-python
 torchvision
 scipy
 numpy>=1.21.2
